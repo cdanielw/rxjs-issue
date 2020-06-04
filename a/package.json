@@ -1,0 +1,8 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "dependencies": {
+    "b": "../b",
+    "rxjs": "git+https://git@github.com/openforis/rxjs.git#magic"
+  }
+}
